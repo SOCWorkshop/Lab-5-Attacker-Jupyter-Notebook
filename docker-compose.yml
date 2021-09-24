@@ -4,7 +4,7 @@ services:
     restart: always
     image: 'ezeutno/jupyter-kali:latest'
     ports:
-     - 8080:8888
+     - 80:8888
     build:
       context: '.'
       dockerfile: dockerfile
