@@ -1,4 +1,4 @@
-# Jupter Notebook on Docker
+# Lab 5 Jupter Notebook on Docker
 This is a unified jupyter notebook running on top of docker
 
 ## The purpose of this
@@ -6,7 +6,6 @@ This is manily used for
 
 - Ethical Hacking
 - Learning Kali Linux Tools
-- Machine Learning
 
 ## Why we run docker?
 The other solution would be VM.
